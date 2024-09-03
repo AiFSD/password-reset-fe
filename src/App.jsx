@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import ResetForm from './assets/components/ResetForm';
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import './App.css'
-import PassReset from './assets/components/passReset';
+import PassReset from './assets/components/PassReset';
 
 
 const App = () => {
